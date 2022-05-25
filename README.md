@@ -9,6 +9,5 @@ Caracteristicas generales:
 Clases:
 -Main
 -Menú: Muestra opciones a realizar
--Buses: Contiene una lista con los buses y sus caracteristicas, 
--Compra: Permite la compra de buses nuevos
--Venta: permite la venta de los buses registrados en la clase Buses
+-Empresa: Contiene una lista con los buses y sus caracteristicas, asi como la compra y venta
+-Buses: contiene atributos de su año, marca, conductor, etc
